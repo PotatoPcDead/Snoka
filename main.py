@@ -8,6 +8,8 @@ pygame.init()
 info = pygame.display.Info()
 
 WIDTH, HEIGHT = info.current_w, info.current_h
+SPEED = 50
+SPACE_SIZE = 50
 class Snake:
     pass
 
